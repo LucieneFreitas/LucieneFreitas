@@ -2,7 +2,8 @@
 
 - 🔭 Trabalho com Front-end.
 - 🌱 Atualmente estou aprendendo Java e Angular
-- ⚡ Leciono programação para crianças de 6 até 16 anos. Ensinando criarem app e jogos.
+- ⚡ Lecionava programação para crianças de 6 até 16 anos, ensinando criarem app e jogos. 
+
 
 <div align="center">
   <a href="https://github.com/LucieneFreitas">
