@@ -2,7 +2,7 @@
 
 - 🔭 Trabalho com Front-end.
 - 🌱 Atualmente estou aprendendo Java e Angular
-- ⚡ Lecionava programação para crianças de 6 até 16 anos, ensinando criarem app e jogos. 
+- ⚡ Lecionava programação para crianças de 6 até 16 anos, ensinando criarem apps e jogos. 
 
 
 <div align="center">
