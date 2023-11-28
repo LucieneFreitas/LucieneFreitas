@@ -1,8 +1,9 @@
 ### Olá Devs! Muito prazer, sou Luciene. 👋
 
 - 🔭 Trabalho com Front-end.
-- 🌱 Atualmente estou aprendendo Java e Angular
-- ⚡ Lecionava programação para crianças de 6 até 16 anos, ensinando criarem apps e jogos. 
+- 🌱 Atualmente estou aprendendo React e Angular
+- ⚡ Lecionava programação para crianças de 6 até 16 anos, ensinando criarem apps e jogos.
+- 👩‍💻 Desfrutei da enriquecedora oportunidade de estagiar em uma grande empresa no segmento de mídia e comunicação. Desenvolvendo com JavaScript na plataforma Servicenow, atuando em projetos para construções em portais utilizando Angular, Typescript e UI Designer. Essa experiência, intensificou ainda mais o meu desejo de atuar neste segmento.
 
 
 <div align="center">
@@ -14,6 +15,8 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> 
